@@ -1,0 +1,56 @@
+body {
+  background-color: #E4FBFF;
+}
+main{
+  font-family: sans-serif;
+  width: 600px;
+  margin: 0 auto;
+ 
+}
+.content h1, .content h2, .content h3 {
+  font-size: 35px;
+}
+
+.icons p {
+  font-weight: bold;
+}
+.icons img {
+  width: 64px;
+  margin-right: 65px;
+}
+.icons img:last-child {
+  margin-right: 0px;
+}
+
+/*rest*/
+.rest {
+  margin-top: 28px;
+  }
+
+
+.rest a {
+  font-family: monospace;
+  font-size: 25px;
+  color: black;
+  text-decoration: none;
+  background-color: #FFA900;
+  border: 4px solid orange;
+  display: block;
+  text-align: center;
+  margin-bottom: 28px;
+} 
+
+.rest a:hover {
+  border-radius: 15px;
+  color:#E4FBFF;
+  
+}
+
+.rest img {
+  width: 100%;
+
+}
+
+.rest h4 {
+  text-align: center;
+}
